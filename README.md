@@ -1,4 +1,4 @@
-Udemy Data Analysis Project** 📊  
+Udemy Data Analysis Project 📊  
 
 This project demonstrates basic data analysis techniques using Python libraries such as **pandas**, **numpy**, **matplotlib**, and **seaborn**. 🐍📈 The data used in this project comes from a dataset of **Udemy courses**. 🎓 The goal of the analysis was to explore the dataset and gain insights into the course offerings, pricing, ratings, and other characteristics. 🔍💰  
 
